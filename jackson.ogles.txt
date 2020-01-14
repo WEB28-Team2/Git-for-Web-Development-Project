@@ -90,7 +90,7 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     32. Using the command line - how do I see a list of files/folders in my current folder?
         ls
     33. How do I remove a file via the command line? Why do I have to be careful with this?
-        del <filename>  Be careful because it wont ask if you are sure, it will just do it, and there is no way to recover deleted files.
+        rm <filename>  Be careful because it wont ask if you are sure, it will just do it, and there is no way to recover deleted files.
     34. Why should I use version control?
         In case you break your code, it enables you to go back to a previous version.
     35. How often should I commit to github?
